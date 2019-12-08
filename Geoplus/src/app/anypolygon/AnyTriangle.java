@@ -1,9 +1,6 @@
 /**
  * Classe permettant de calculer l'aire et le périmètre d'un triangle quelconque
- * @param createPoint() creation des points
- * @param pointDistance() calculation des distances entre les points
- * @param perimiter() calculation du périmètre du triangle quelconque
- * @param area() calculation du périmètre du triangle quelconque
+ * 
  * @author Nadeem Imam Samaali
  * @version v1.0
 */
